@@ -1,5 +1,7 @@
 # Lyk
 
+deneme 5-6-7
+
 TODO: Write a gem description
 
 ## Installation
